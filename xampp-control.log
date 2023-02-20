@@ -1,0 +1,39 @@
+01:03:36  [main] 	Initializing Control Panel
+01:03:36  [main] 	Windows Version:  Home  64-bit
+01:03:36  [main] 	XAMPP Version: 8.2.0
+01:03:36  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+01:03:36  [main] 	You are not running with administrator rights! This will work for
+01:03:36  [main] 	most application stuff but whenever you do something with services
+01:03:36  [main] 	there will be a security dialogue or things will break! So think 
+01:03:36  [main] 	about running this application with administrator rights!
+01:03:36  [main] 	XAMPP Installation Directory: "c:\xampp\"
+01:03:36  [main] 	Checking for prerequisites
+01:03:38  [main] 	All prerequisites found
+01:03:38  [main] 	Initializing Modules
+01:03:38  [main] 	Starting Check-Timer
+01:03:38  [main] 	Control Panel Ready
+01:06:40  [Apache] 	Status change detected: running
+01:06:41  [mysql] 	Status change detected: running
+01:56:51  [main] 	Deinitializing Modules
+01:56:51  [main] 	Deinitializing Control Panel
+
+00:48:02  [main] 	Initializing Control Panel
+00:48:02  [main] 	Windows Version:  Home  64-bit
+00:48:02  [main] 	XAMPP Version: 8.2.0
+00:48:02  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+00:48:02  [main] 	You are not running with administrator rights! This will work for
+00:48:02  [main] 	most application stuff but whenever you do something with services
+00:48:02  [main] 	there will be a security dialogue or things will break! So think 
+00:48:02  [main] 	about running this application with administrator rights!
+00:48:02  [main] 	XAMPP Installation Directory: "c:\xampp\"
+00:48:02  [main] 	Checking for prerequisites
+00:48:02  [main] 	All prerequisites found
+00:48:02  [main] 	Initializing Modules
+00:48:02  [Apache] 	XAMPP Apache is already running on port 80
+00:48:02  [Apache] 	XAMPP Apache is already running on port 443
+00:48:02  [mysql] 	XAMPP MySQL is already running on port 3306
+00:48:02  [main] 	Starting Check-Timer
+00:48:02  [main] 	Control Panel Ready
+00:36:46  [main] 	Deinitializing Modules
+00:36:46  [main] 	Deinitializing Control Panel
+
